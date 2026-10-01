@@ -1,0 +1,6 @@
+{
+  "name": "Iris Studio - Fine Art Iris Photography Platform",
+  "description": "Professional iris photography editing, simulated AI enhancement, artistic compositions, and studio subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
